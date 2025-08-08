@@ -1,6 +1,8 @@
 # SQL & PL/SQL Lab Assignments
 
-This repository contains a series of hands-on lab exercises for Oracle SQL and PL/SQL, all built on top of the **SUMMIT.sql** schema.  The `SUMMIT.sql` script creates and populates a realistic transactional database (customers, orders, products, inventory, employees, etc.) with sequences, triggers and referential constraints. There is also a jpg image visually representing the summit script. Each lab (`lb3.sql` through `lb12.sql`) explores a different set of core database skills.
+This repository contains a series of hands-on lab exercises for Oracle SQL and PL/SQL, all built on top of the **SUMMIT.sql** schema.  The `SUMMIT.sql` script creates and populates a realistic transactional database (customers, orders, products, inventory, employees, etc.) with sequences, triggers and referential constraints. Each lab (`lb3.sql` through `lb12.sql`) explores a different set of core database skills.
+
+![Descriptive alt text](/schemat%20SUMMIT.jpg)
 
 ---
 
